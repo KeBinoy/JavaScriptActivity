@@ -13,20 +13,20 @@ var subHead = document.getElementById('subHeading');
 subHeadScript = "My New Subtitle JavaScript";
 subHead.innerHTML = subHeadScript;
 
-var table = document.getElementById('tbl');
+// var table = document.getElementById('tbl');
 
-var col = 2;
-var arrNames = ['Reymar', 'Cindy', 'Kevin', 'Danver', 'Ed', 'Glester', 'Jeffrey'];
-var arrGender = ['Male', 'Female', 'Male', 'Male', 'Male', 'Male', 'Male'];
-var index = 0;
-var html = "<thead><tr><th>Name</th><th>Gender</th></tr></thead>";
-html += "<tbody>";
-for(x=0;x<arrNames.length;x++){
-  html+="<tr>";
-  html+="<td>"+arrNames[index]+"</td>";
-  html+="<td>"+arrGender[index]+"</td>";
-  html+="</tr>";
-  index++;
-}
-html += "</tbody>";
-table.innerHTML = html;
+// var col = 2;
+// var arrNames = ['Reymar', 'Cindy', 'Kevin', 'Danver', 'Ed', 'Glester', 'Jeffrey'];
+// var arrGender = ['Male', 'Female', 'Male', 'Male', 'Male', 'Male', 'Male'];
+// var index = 0;
+// var html = "<thead><tr><th>Name</th><th>Gender</th></tr></thead>";
+// html += "<tbody>";
+// for(x=0;x<arrNames.length;x++){
+//   html+="<tr>";
+//   html+="<td>"+arrNames[index]+"</td>";
+//   html+="<td>"+arrGender[index]+"</td>";
+//   html+="</tr>";
+//   index++;
+// }
+// html += "</tbody>";
+// table.innerHTML = html;
