@@ -1,0 +1,28 @@
+.col-sm-3{
+	font-weight: bold;
+}
+.col-sm-3 img{
+	border: 1px solid #ccc;
+}
+
+.container{
+	margin-top: 10px;
+}
+.row-centered {
+    text-align:center;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+    
+
+	display: table-cell;
+	vertical-align: middle;
+}
+.center-text{
+ display: table;
+}

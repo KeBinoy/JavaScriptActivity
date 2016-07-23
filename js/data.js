@@ -1,7 +1,11 @@
 var students = { "MIT" : [
 { "name" : "Reymar", "gender" : "Male" },
 { "name" : "Cindy", "gender" : "Female" },
-{ "name" : "Kevin", "gender" : "Male" }
+{ "name" : "Kevin", "gender" : "Male" },
+{ "name" : "Danver", "gender" : "Male" },
+{ "name" : "Ed", "gender" : "Male" },
+{ "name" : "Glester", "gender" : "Male" },
+{ "name" : "Jeffrey", "gender" : "Male" }
 ]
 } 
 
